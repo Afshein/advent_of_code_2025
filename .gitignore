@@ -1,0 +1,3 @@
+# Ignore Python egg-info metadata directories
+*.**egg-info/
+*.egg-info
